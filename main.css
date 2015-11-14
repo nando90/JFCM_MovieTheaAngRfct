@@ -1,0 +1,22 @@
+.seat{
+	height: 100px;
+	width: 100px;
+	margin: 15px;
+	background-color: red;
+	float: left;
+}
+
+.row{
+	background-color: blue;
+	float: left;
+	clear: right;
+}
+
+
+
+.cont{
+	text-align: center;
+	background-color: yellow;
+	width: 1000px;
+
+}
